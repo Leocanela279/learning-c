@@ -1,1 +1,1 @@
-# learning-c
+# Repository to show my journey from 0 to something in C, i've never programmed before in C , always Java, JS,PHP and Golang, my level in golang is very basic i've used pointers and pretty much that's it,learning pointers and memorie allocators will be a very hard task but eventualyy i will come close to it, also first semester in Computer Science (Ingenieria informática en España), next semester i will be learning assembly,Math 1 and Math 2 and systems programming.
